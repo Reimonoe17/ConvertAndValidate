@@ -1,4 +1,10 @@
-﻿Module ConvertAndValidate
+﻿'Jamison Burton
+'RCET0265
+'Spring 2022
+'ConvertAndValidate
+'https://github.com/Reimonoe17/ConvertAndValidate
+
+Module ConvertAndValidate
 
     Sub Main()
 
